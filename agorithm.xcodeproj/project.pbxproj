@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2E46D33317CA5C9100111C9F /* SelectSort.c in Sources */ = {isa = PBXBuildFile; fileRef = 2E46D33217CA5C9100111C9F /* SelectSort.c */; };
 		2ED4E0BD17C877D900A3F65B /* BubbleSort0.c in Sources */ = {isa = PBXBuildFile; fileRef = 2ED4E0BC17C877D900A3F65B /* BubbleSort0.c */; };
 		2ED4E0BF17C877D900A3F65B /* agorithm.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 2ED4E0BE17C877D900A3F65B /* agorithm.1 */; };
 /* End PBXBuildFile section */
@@ -25,6 +26,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		2E46D33217CA5C9100111C9F /* SelectSort.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = SelectSort.c; sourceTree = "<group>"; };
 		2ED4E0B917C877D900A3F65B /* agorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = agorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		2ED4E0BC17C877D900A3F65B /* BubbleSort0.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = BubbleSort0.c; sourceTree = "<group>"; };
 		2ED4E0BE17C877D900A3F65B /* agorithm.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = agorithm.1; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 			children = (
 				2ED4E0BC17C877D900A3F65B /* BubbleSort0.c */,
 				2ED4E0BE17C877D900A3F65B /* agorithm.1 */,
+				2E46D33217CA5C9100111C9F /* SelectSort.c */,
 			);
 			path = agorithm;
 			sourceTree = "<group>";
@@ -118,6 +121,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2ED4E0BD17C877D900A3F65B /* BubbleSort0.c in Sources */,
+				2E46D33317CA5C9100111C9F /* SelectSort.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
